@@ -21,6 +21,7 @@ body {
     padding: 5px;
     color: aliceblue;
     border-radius: 10px;
+    text-align: center;
 
 }
 
@@ -70,4 +71,30 @@ hr {
     display: inline-block;
     background-color: burlywood;
 
+}
+
+.thirdpage {
+    color: rgb(13, 102, 179);
+    display: flex
+}
+
+#third-button {
+
+    text-decoration: none;
+    background-color: darkred;
+    padding: 5px;
+    color: aliceblue;
+    border-radius: 10px;
+
+
+}
+
+.parafontthird {
+    text-align: left;
+    color: black;
+    font-size: 20px;
+}
+
+.image {
+    padding-top: 70px;
 }
