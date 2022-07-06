@@ -32,6 +32,7 @@ body {
 
 .font {
     font-size: 70px;
+    padding-left: 20px;
 }
 
 .parafont {
@@ -85,16 +86,78 @@ hr {
     padding: 5px;
     color: aliceblue;
     border-radius: 10px;
+    font-size: 30px;
 
 
 }
 
 .parafontthird {
-    text-align: left;
-    color: black;
+    text-align: left color: black;
     font-size: 20px;
 }
 
 .image {
     padding-top: 70px;
+    padding-left: 20px;
+
+
+
+}
+
+#third {
+    height: 500px;
+    width: 400px;
+    padding-top: 10px;
+    padding-right: 20px;
+    padding-left: 20px;
+}
+
+.last {
+    display: flex;
+}
+
+#heading {
+    font-size: 70px;
+    color: crimson;
+}
+
+.paragraph {
+    font-size: 30px;
+    text-align: justify;
+    color: blueviolet;
+}
+
+.centre {
+    text-align: center;
+}
+
+#head {
+    font-size: 70px;
+    color: crimson;
+}
+
+.cen {
+    text-align: center;
+}
+
+.mail {
+    text-align: center;
+    display: flex;
+
+    padding-left: 40%;
+    background-color: coral;
+
+}
+
+#subscribe {
+    background-color: aqua;
+    font-size: 20px;
+}
+
+.footer {
+    background-color: black;
+    color: tomato;
+    text-align: center;
+
+}
 }
