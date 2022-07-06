@@ -17,12 +17,14 @@ body {
 
 .button {
     text-decoration: none;
-    background-color: darkred;
-    padding: 5px;
+    background-color: crimson;
+    padding: 10px 50px;
     color: aliceblue;
     border-radius: 10px;
     text-align: center;
     font-size: 30px;
+    font-weight: 700;
+
 
 }
 
@@ -86,7 +88,7 @@ hr {
 
     text-decoration: none;
     background-color: darkred;
-    padding: 5px;
+    padding: 10px 50px;
     color: aliceblue;
     border-radius: 10px;
     font-size: 30px;
@@ -163,5 +165,4 @@ hr {
     color: tomato;
     text-align: center;
 
-}
 }
