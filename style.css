@@ -4,8 +4,8 @@ body {
 
 .center {
     text-align: center;
-    color: aliceblue;
-    background-image: url(images/donation10.jpg);
+    color: whitesmoke;
+    background-image: url(images/donation6.jpg);
     background-size: 100% 100%;
     background-repeat: no-repeat;
     font-size: 70px;
@@ -70,6 +70,8 @@ hr {
 
 .flexible {
     display: inline-block;
+    border: 10px;
+
     background-color: burlywood;
 
 }
