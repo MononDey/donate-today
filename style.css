@@ -33,6 +33,41 @@ body {
     font-size: 70px;
 }
 
-#parafont {
+.parafont {
     font-size: 30px;
+    text-align: center;
+}
+
+.tk {
+    color: brown;
+    background-color: darkorange;
+    border: 5px solid;
+    border-color: red;
+}
+
+hr {
+    width: 50%;
+    height: 5px;
+    background-color: black;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+#heading {
+    font-size: 70px;
+    text-align: center;
+
+}
+
+.icon {
+    padding: 50px;
+    background-color: aqua;
+
+
+}
+
+.flexible {
+    display: inline-block;
+    background-color: burlywood;
+
 }
